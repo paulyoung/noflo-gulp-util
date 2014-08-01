@@ -35,5 +35,10 @@
   },
   "engines": {
     "node": "~0.10.13"
+  },
+  "noflo": {
+    "components": {
+      "LogMessage": "components/LogMessage.coffee"
+    }
   }
 }
