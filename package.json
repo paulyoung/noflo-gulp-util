@@ -38,7 +38,8 @@
   },
   "noflo": {
     "components": {
-      "LogMessage": "components/LogMessage.coffee"
+      "LogMessage": "components/LogMessage.coffee",
+      "ThrowPluginError": "components/ThrowPluginError.coffee"
     }
   }
 }
